@@ -1,0 +1,283 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory1.DAL\\ViceArmory1.DAL.csproj": {}
+  },
+  "projects": {
+    "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory.Bal\\ViceArmory.Bal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory.Bal\\ViceArmory.Bal.csproj",
+        "projectName": "ViceArmory.Bal",
+        "projectPath": "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory.Bal\\ViceArmory.Bal.csproj",
+        "packagesPath": "C:\\Users\\dsuth\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory.Bal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dsuth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory.Dal\\ViceArmory.Dal.csproj": {
+                "projectPath": "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory.Dal\\ViceArmory.Dal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory.Dal\\ViceArmory.Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory.Dal\\ViceArmory.Dal.csproj",
+        "projectName": "ViceArmory.Dal",
+        "projectPath": "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory.Dal\\ViceArmory.Dal.csproj",
+        "packagesPath": "C:\\Users\\dsuth\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory.Dal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dsuth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.27, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory1.DAL\\ViceArmory1.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory1.DAL\\ViceArmory1.DAL.csproj",
+        "projectName": "ViceArmory1.DAL",
+        "projectPath": "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory1.DAL\\ViceArmory1.DAL.csproj",
+        "packagesPath": "C:\\Users\\dsuth\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory1.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dsuth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory.Bal\\ViceArmory.Bal.csproj": {
+                "projectPath": "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory.Bal\\ViceArmory.Bal.csproj"
+              },
+              "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory.Dal\\ViceArmory.Dal.csproj": {
+                "projectPath": "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory.Dal\\ViceArmory.Dal.csproj"
+              },
+              "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory\\ViceArmory.csproj": {
+                "projectPath": "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory\\ViceArmory.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.27, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory\\ViceArmory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory\\ViceArmory.csproj",
+        "projectName": "ViceArmory",
+        "projectPath": "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory\\ViceArmory.csproj",
+        "packagesPath": "C:\\Users\\dsuth\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dsuth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory.Bal\\ViceArmory.Bal.csproj": {
+                "projectPath": "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory.Bal\\ViceArmory.Bal.csproj"
+              },
+              "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory.Dal\\ViceArmory.Dal.csproj": {
+                "projectPath": "D:\\projects\\vice_armory_api\\ViceArmoryApi\\ViceArmory.Dal\\ViceArmory.Dal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.HttpsPolicy": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

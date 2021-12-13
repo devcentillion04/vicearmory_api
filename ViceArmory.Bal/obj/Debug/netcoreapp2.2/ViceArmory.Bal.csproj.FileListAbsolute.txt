@@ -1,0 +1,11 @@
+D:\projects\vice_armory_api\ViceArmoryApi\ViceArmory.Bal\bin\Debug\netcoreapp2.2\ViceArmory.Bal.deps.json
+D:\projects\vice_armory_api\ViceArmoryApi\ViceArmory.Bal\bin\Debug\netcoreapp2.2\ViceArmory.Bal.runtimeconfig.json
+D:\projects\vice_armory_api\ViceArmoryApi\ViceArmory.Bal\bin\Debug\netcoreapp2.2\ViceArmory.Bal.runtimeconfig.dev.json
+D:\projects\vice_armory_api\ViceArmoryApi\ViceArmory.Bal\bin\Debug\netcoreapp2.2\ViceArmory.Bal.dll
+D:\projects\vice_armory_api\ViceArmoryApi\ViceArmory.Bal\bin\Debug\netcoreapp2.2\ViceArmory.Bal.pdb
+D:\projects\vice_armory_api\ViceArmoryApi\ViceArmory.Bal\obj\Debug\netcoreapp2.2\ViceArmory.Bal.csprojAssemblyReference.cache
+D:\projects\vice_armory_api\ViceArmoryApi\ViceArmory.Bal\obj\Debug\netcoreapp2.2\ViceArmory.Bal.csproj.CoreCompileInputs.cache
+D:\projects\vice_armory_api\ViceArmoryApi\ViceArmory.Bal\obj\Debug\netcoreapp2.2\ViceArmory.Bal.AssemblyInfoInputs.cache
+D:\projects\vice_armory_api\ViceArmoryApi\ViceArmory.Bal\obj\Debug\netcoreapp2.2\ViceArmory.Bal.AssemblyInfo.cs
+D:\projects\vice_armory_api\ViceArmoryApi\ViceArmory.Bal\obj\Debug\netcoreapp2.2\ViceArmory.Bal.dll
+D:\projects\vice_armory_api\ViceArmoryApi\ViceArmory.Bal\obj\Debug\netcoreapp2.2\ViceArmory.Bal.pdb
